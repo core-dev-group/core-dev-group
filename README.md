@@ -40,8 +40,6 @@ Kami mengelola tiga pilar utama proyek yang saling terintegrasi untuk mendukung 
 
 Sistem otomasi dan manajemen komunitas yang dirancang khusus untuk mendukung interaksi para developer.
 
-🔗 https://github.com/core-dev-group/core-anime-bot
-
 - **Fitur Utama:** Advanced Leveling System (Canvacord v6), Developer Utilities (NPM, GitHub, MDN), dan Custom Profile Database.
 - **Tech Stack:** Node.js, Discord.js v14, MongoDB.
 
@@ -49,16 +47,12 @@ Sistem otomasi dan manajemen komunitas yang dirancang khusus untuk mendukung int
 
 Platform eksplorasi kultur pop Jepang yang cepat, responsif, dan modular bagi pecinta anime dan manga.
 
-🔗 https://github.com/core-dev-group/core-anime-modular
-
 - **Fitur Utama:** Katalog Anime/Manga, Jadwal Rilis (Airing), Galeri Waifu, dan Anime Quotes API.
 - **Tech Stack:** Next.js 15, TypeScript, Tailwind CSS, Jikan API.
 
 ### 3. 🏢 Boston Point System (Community Management)
 
 Platform manajemen internal terpadu untuk pengelolaan operasional komunitas secara efisien.
-
-🔗 https://github.com/core-dev-group/boston-point
 
 - **Fitur Utama:** Member Management, Event Organizer, Gallery Moments, dan Admin/Developer Metrics Dashboard.
 - **Tech Stack:** Next.js 15, TypeScript, MongoDB, NextAuth.js.
