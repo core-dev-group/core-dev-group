@@ -8,6 +8,12 @@
   <strong>Membangun ekosistem developer yang solid, interaktif, dan terus berkembang.</strong>
 </p>
 
+<div align="center">
+  <a href="https://discord.gg/GqJ4Y8MfZx">
+    <img src="https://img.shields.io/badge/Join_Our_Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Join Discord" />
+  </a>
+</div>
+
 ---
 
 ## 🌟 Tentang Kami
