@@ -25,9 +25,9 @@
 ## 📊 Ecosystem Status
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Core_Anime_Modular-ACTIVE-00FF88?style=for-the-badge" alt="Status Core Anime" />
+  <img src="https://img.shields.io/badge/Core_Anime_Modular-BETA-00FF88?style=for-the-badge" alt="Status Core Anime" />
   <img src="https://img.shields.io/badge/Boston_Point_System-BETA-F59E0B?style=for-the-badge" alt="Status Boston Point" />
-  <img src="https://img.shields.io/badge/Core_Dev_Bot-ACTIVE-3B82F6?style=for-the-badge" alt="Status Core Dev Bot" />
+  <img src="https://img.shields.io/badge/Core_Dev_Bot-BETA-3B82F6?style=for-the-badge" alt="Status Core Dev Bot" />
 </p>
 
 ---
