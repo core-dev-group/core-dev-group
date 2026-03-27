@@ -71,7 +71,7 @@ Platform manajemen internal terpadu untuk pengelolaan operasional komunitas seca
 
 <p align="center">
   <a href="https://core-anime.vercel.app/">
-    <img src="https://image.thum.io/get/width/1200/crop/675/noanimate/https://core-anime.vercel.app/" alt="Core Anime Live Preview" />
+    <img src="assets/preview-core-anime.webp" alt="Core Anime Preview" />
   </a>
 </p>
 
@@ -79,7 +79,7 @@ Platform manajemen internal terpadu untuk pengelolaan operasional komunitas seca
 
 <p align="center">
   <a href="https://boston-point.vercel.app/">
-    <img src="https://image.thum.io/get/width/1200/crop/675/noanimate/https://boston-point.vercel.app/" alt="Boston Point Live Preview" />
+    <img src="assets/preview-boston-point.webp" alt="Boston Point Preview" />
   </a>
 </p>
 
