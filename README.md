@@ -9,8 +9,8 @@
 </p>
 
 <div align="center">
-  <a href="https://discord.gg/GqJ4Y8MfZx">
-    <img src="https://img.shields.io/badge/Join_Our_Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Join Discord" />
+  <a href="https://discord.gg/sdVWy3g35k">
+    <img src="https://img.shields.io/badge/Join_The_Nameless_King-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Join The Nameless King Discord" />
   </a>
 </div>
 
@@ -18,23 +18,24 @@
 
 ## 🌟 Tentang Kami
 
-**Core Dev Group** adalah pusat kolaborasi bagi para *programmer*, *developer*, dan antusias teknologi. Kami berfokus pada pengembangan infrastruktur komunitas modern, platform web modular, dan alat bantu produktivitas. Kami percaya bahwa kode yang baik lahir dari komunitas yang saling mendukung.
+**Core Dev Group** adalah pusat kolaborasi bagi para *programmer*, *developer*, dan antusias teknologi. Kami berfokus pada pengembangan infrastruktur komunitas modern, platform web modular, alat bantu produktivitas, hingga narasi visual interaktif. Kami percaya bahwa kode yang baik lahir dari komunitas yang saling mendukung.
 
 ---
 
 ## 📊 Ecosystem Status
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Core_Anime_Modular-BETA-00FF88?style=for-the-badge" alt="Status Core Anime" />
+  <img src="https://img.shields.io/badge/The_Nameless_King-BETA-00FF88?style=for-the-badge" alt="Status The Nameless King" />
+  <img src="https://img.shields.io/badge/Core_Anime_Modular-BETA-3B82F6?style=for-the-badge" alt="Status Core Anime" />
   <img src="https://img.shields.io/badge/Boston_Point_System-BETA-F59E0B?style=for-the-badge" alt="Status Boston Point" />
-  <img src="https://img.shields.io/badge/Core_Dev_Bot-BETA-3B82F6?style=for-the-badge" alt="Status Core Dev Bot" />
+  <img src="https://img.shields.io/badge/Core_Dev_Bot-BETA-9333EA?style=for-the-badge" alt="Status Core Dev Bot" />
 </p>
 
 ---
 
 ## 🚀 Proyek Ekosistem Kami
 
-Kami mengelola tiga pilar utama proyek yang saling terintegrasi untuk mendukung komunitas:
+Kami mengelola berbagai pilar utama proyek yang saling terintegrasi untuk mendukung komunitas dan karya kami:
 
 ### 1. 🤖 Core Dev Infrastructure (Discord Bot)
 
@@ -43,14 +44,39 @@ Sistem otomasi dan manajemen komunitas yang dirancang khusus untuk mendukung int
 - **Fitur Utama:** Advanced Leveling System (Canvacord v6), Developer Utilities (NPM, GitHub, MDN), dan Custom Profile Database.
 - **Tech Stack:** Node.js, Discord.js v14, MongoDB.
 
-### 2. ⛩️ Core Anime Modular (Web Portal)
+### 2. 👑 The Nameless King (Visual Novel Project)
+
+Proyek pengembangan game *Visual Novel* bergenre *dark fantasy* bertajuk **"The Nameless King"**, mengisahkan intrik takhta, pengembara, dan rahasia yang terkubur.
+
+- **Fitur Utama:** Branching Narrative (Pilihan Cerita), Karakter Dinamis, dan Ilustrasi Suasana Kerajaan.
+- **Tech Stack:** Ren'Py, Python, Custom Asset Management.
+
+<div align="center">
+
+> # 👑 THE NAMELESS KING — OFFICIAL COMMUNITY 👑
+> *"Di atas tanah yang terlupakan, sebuah takhta menanti rajanya yang sejati..."*
+>
+> Halo, para pengembara! Kami mengundangmu bergabung ke server resmi pengembangan Visual Novel indie **"The Nameless King: Jejak di Atas Tanah"**.
+>
+> **Apa yang bisa kamu temukan di sini?**
+> 🔮 Diskusi *lore*, teori cerita, dan rahasia-rahasia dunia Astoria
+> ✨ Devlog & *sneak peek* langsung progress visual, musik, dan pemrograman game
+> 🎨 Ruang pamer *fanart*, ide, dan saran dari komunitas
+> ☕ Nongkrong santai bareng sesama pengembara di kedai
+>
+> ⚔️ **Ambil pedangmu, dan mulai perjalanan bersama kami:**
+> https://discord.gg/sdVWy3g35k
+
+</div>
+
+### 3. ⛩️ Core Anime Modular (Web Portal)
 
 Platform eksplorasi kultur pop Jepang yang cepat, responsif, dan modular bagi pecinta anime dan manga.
 
 - **Fitur Utama:** Katalog Anime/Manga, Jadwal Rilis (Airing), Galeri Waifu, dan Anime Quotes API.
 - **Tech Stack:** Next.js 15, TypeScript, Tailwind CSS, Jikan API.
 
-### 3. 🏢 Boston Point System (Community Management)
+### 4. 🏢 Boston Point System (Community Management)
 
 Platform manajemen internal terpadu untuk pengelolaan operasional komunitas secara efisien.
 
@@ -61,7 +87,13 @@ Platform manajemen internal terpadu untuk pengelolaan operasional komunitas seca
 
 ## 👀 Preview
 
-### 🎬 Core Anime Modular
+### 👑 The Nameless King
+
+<p align="center">
+  <img src="https://placehold.co/900x500/0B0F1A/00FF88?text=The+Nameless+King+Preview" alt="The Nameless King Preview" />
+</p>
+
+### ⛩️ Core Anime Modular
 
 <p align="center">
   <a href="https://core-anime.vercel.app/">
@@ -87,11 +119,12 @@ Platform manajemen internal terpadu untuk pengelolaan operasional komunitas seca
 
 ## 🛠️ Global Tech Stack
 
-Infrastruktur kami dibangun dengan teknologi modern yang tangguh dan fleksibel:
+Infrastruktur dan karya kami dibangun dengan teknologi modern yang tangguh dan fleksibel:
 
 <p align="left">
   <img src="https://img.shields.io/badge/Next.js_15-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="NextJS" />
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
   <img src="https://img.shields.io/badge/Discord.js-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="DiscordJS" />
@@ -112,7 +145,7 @@ Seluruh ekosistem ini diinisiasi dan dikembangkan oleh:
   <a href="https://github.com/kodel-dev">
     <img src="https://img.shields.io/badge/GitHub_Founder-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile" />
   </a>
-  <a href="https://www.instagram.com/notyur_devboy/">
+  <a href="https://www.instagram.com/dvam.in?igsh=OGQ5ZDc2ODk2ZA==">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 </div>
