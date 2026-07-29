@@ -90,7 +90,7 @@ Platform manajemen internal terpadu untuk pengelolaan operasional komunitas seca
 ### 👑 The Nameless King
 
 <p align="center">
-  <img src="https://placehold.co/900x500/0B0F1A/00FF88?text=The+Nameless+King+Preview" alt="The Nameless King Preview" />
+  <img src="assets/preview-the-nameless-king.webp" alt="The Nameless King Preview" />
 </p>
 
 ### ⛩️ Core Anime Modular
