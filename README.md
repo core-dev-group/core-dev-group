@@ -8,12 +8,6 @@
   <strong>Membangun ekosistem developer yang solid, interaktif, dan terus berkembang melalui solusi modular.</strong>
 </p>
 
-<div align="center">
-  <a href="https://discord.gg/sdVWy3g35k">
-    <img src="https://img.shields.io/badge/Join_The_Nameless_King-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Join The Nameless King Discord" />
-  </a>
-</div>
-
 ---
 
 ## 🌟 Tentang Kami
@@ -53,19 +47,22 @@ Proyek pengembangan game *Visual Novel* bergenre *dark fantasy* bertajuk **"The 
 
 <div align="center">
 
-> # 👑 THE NAMELESS KING — OFFICIAL COMMUNITY 👑
+> # 👑 THE NAMELESS KING — OFFICIAL PORTAL 👑
 > *"Di atas tanah yang terlupakan, sebuah takhta menanti rajanya yang sejati..."*
 >
-> Halo, para pengembara! Kami mengundangmu bergabung ke server resmi pengembangan Visual Novel indie **"The Nameless King: Jejak di Atas Tanah"**.
+> Halo, para pengembara! Kunjungi portal web resmi kami untuk menjelajahi dunia **"The Nameless King"** secara lengkap.
 >
-> **Apa yang bisa kamu temukan di sini?**
-> 🔮 Diskusi *lore*, teori cerita, dan rahasia-rahasia dunia Astoria
-> ✨ Devlog & *sneak peek* langsung progress visual, musik, dan pemrograman game
-> 🎨 Ruang pamer *fanart*, ide, dan saran dari komunitas
-> ☕ Nongkrong santai bareng sesama pengembara di kedai
+> **Apa yang bisa kamu temukan di website?**
+> 🔮 Sinopsis lengkap perjalanan Alexios dan relik Besi Bintang
+> ✨ Ensiklopedia dunia dan pengenalan karakter utama
+> 🎶 Pemutar audio BGM eksklusif dengan visualizer dinamis
+> 📥 Informasi akses Open Beta dan log pembaruan terkini
 >
-> ⚔️ **Ambil pedangmu, dan mulai perjalanan bersama kami:**
-> https://discord.gg/sdVWy3g35k
+> ⚔️ **Ambil pedangmu, dan kunjungi website resminya sekarang:**
+> <br><br>
+> <a href="https://the-nameless-king.vercel.app/">
+>   <img src="https://img.shields.io/badge/Buka_Website_The_Nameless_King-8B0000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Web The Nameless King" />
+> </a>
 
 </div>
 
@@ -90,7 +87,9 @@ Platform manajemen internal terpadu untuk pengelolaan operasional komunitas seca
 ### 👑 The Nameless King
 
 <p align="center">
-  <img src="assets/preview-the-nameless-king.webp" alt="The Nameless King Preview" />
+  <a href="https://the-nameless-king.vercel.app/">
+    <img src="assets/preview-the-nameless-king.webp" alt="The Nameless King Preview" />
+  </a>
 </p>
 
 ### ⛩️ Core Anime Modular
