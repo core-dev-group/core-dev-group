@@ -16,12 +16,26 @@
 
 ---
 
+## 🎯 Visi & Misi
+
+### 👁️ Visi
+> *"Menjadi pusat kolaborasi developer dan inkubator teknologi modular terdepan yang memadukan inovasi kode, kreativitas visual, serta solidaritas komunitas yang berkelanjutan."*
+
+### 🚀 Misi
+1. **Membangun Infrastruktur & Ekosistem Modular** — Mengembangkan alat bantu produktivitas, sistem otomatisasi, dan platform web terintegrasi yang andal.
+2. **Menghadirkan Solusi Kreatif & Interaktif** — Menggabungkan teknologi modern dengan karya kreatif seperti platform digital dan pengembangan game (*Visual Novel*).
+3. **Mendorong Pertumbuhan Kolaboratif** — Menciptakan lingkungan yang inklusif bagi para *programmer* dan antusias teknologi untuk saling berbagi ilmu.
+4. **Menjunjung Tinggi Standar Kualitas** — Memanfaatkan *tech stack* modern untuk menghasilkan produk digital yang bersih, efisien, dan fungsional.
+
+---
+
 ## 📊 Ecosystem Status
 
 <p align="center">
   <img src="https://img.shields.io/badge/The_Nameless_King-BETA-00FF88?style=for-the-badge" alt="Status The Nameless King" />
   <img src="https://img.shields.io/badge/Core_Anime_Modular-BETA-3B82F6?style=for-the-badge" alt="Status Core Anime" />
   <img src="https://img.shields.io/badge/Boston_Point_System-BETA-F59E0B?style=for-the-badge" alt="Status Boston Point" />
+  <img src="https://img.shields.io/badge/Makima_Finance-BETA-CC1B1B?style=for-the-badge" alt="Status Makima Finance" />
   <img src="https://img.shields.io/badge/Core_Dev_Bot-BETA-9333EA?style=for-the-badge" alt="Status Core Dev Bot" />
 </p>
 
@@ -80,6 +94,13 @@ Platform manajemen internal terpadu untuk pengelolaan operasional komunitas seca
 - **Fitur Utama:** Member Management, Event Organizer, Gallery Moments, dan Admin/Developer Metrics Dashboard.
 - **Tech Stack:** Next.js 15, TypeScript, MongoDB, NextAuth.js.
 
+### 5. 💳 Makima Finance (Personal Finance App)
+
+Aplikasi pengatur keuangan pribadi bergaya *Dark Crimson* dengan AI Advisor & Vision Scanner.
+
+- **Fitur Utama:** Makima AI Advisor (Llama 3.3 70B), OCR Receipt Scanner, pencatat hutang-piutang, split bill, dan ekspor kalender .ics lokal.
+- **Tech Stack:** Flutter, Dart, Hive NoSQL.
+
 ---
 
 ## 👀 Preview
@@ -108,6 +129,14 @@ Platform manajemen internal terpadu untuk pengelolaan operasional komunitas seca
   </a>
 </p>
 
+### 💳 Makima Finance
+
+<p align="center">
+  <a href="https://github.com/kodel-dev/makima-finance-app">
+    <img src="https://placehold.co/900x500/0B0F1A/CC1B1B?text=Makima+Finance+Preview" alt="Makima Finance Preview" />
+  </a>
+</p>
+
 ### 🤖 Core Dev Bot
 
 <p align="center">
@@ -125,6 +154,8 @@ Infrastruktur dan karya kami dibangun dengan teknologi modern yang tangguh dan f
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
   <img src="https://img.shields.io/badge/Discord.js-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="DiscordJS" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS" />
@@ -132,7 +163,7 @@ Infrastruktur dan karya kami dibangun dengan teknologi modern yang tangguh dan f
 
 ---
 
-## 👨‍💻 Founder & Architect
+## 👨💻 Founder & Architect
 
 Seluruh ekosistem ini diinisiasi dan dikembangkan oleh:
 
