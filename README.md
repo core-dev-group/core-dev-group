@@ -5,111 +5,123 @@
 <h1 align="center">Welcome to Core Dev Group 🚀</h1>
 
 <p align="center">
-  <strong>Membangun ekosistem developer yang solid, interaktif, dan terus berkembang melalui solusi modular.</strong>
+  <strong>Tempat ngumpulnya para developer buat bikin karya keren, bareng-bareng!</strong>
 </p>
 
 ---
 
 ## 🌟 Tentang Kami
 
-**Core Dev Group** adalah pusat kolaborasi bagi para *programmer*, *developer*, dan antusias teknologi. Kami berfokus pada pengembangan infrastruktur komunitas modern, platform web modular, alat bantu produktivitas, hingga narasi visual interaktif. Kami percaya bahwa kode yang baik lahir dari komunitas yang saling mendukung.
+Halo! **Core Dev Group** itu pada dasarnya adalah wadah buat kita para *programmer*, *developer*, atau siapa pun yang suka teknologi buat saling kolaborasi. Kita suka bikin macem-macem hal, mulai dari bot buat ngurusin komunitas, website yang kekinian, sampai bikin game *Visual Novel* yang seru. Intinya, kita percaya kalau kode yang bagus itu selalu lahir dari komunitas yang asik dan saling *support*.
 
 ---
 
 ## 🎯 Visi & Misi
 
 ### 👁️ Visi
-> *"Menjadi pusat kolaborasi developer dan inkubator teknologi modular terdepan yang memadukan inovasi kode, kreativitas visual, serta solidaritas komunitas yang berkelanjutan."*
+> *"Pengen jadi tempat nongkrong virtual terbaik buat developer, di mana kita bisa gabungin ide gila soal kode, visual yang keren, dan pastinya komunitas yang suportif banget."*
 
 ### 🚀 Misi
-1. **Membangun Infrastruktur & Ekosistem Modular** — Mengembangkan alat bantu produktivitas, sistem otomatisasi, dan platform web terintegrasi yang andal.
-2. **Menghadirkan Solusi Kreatif & Interaktif** — Menggabungkan teknologi modern dengan karya kreatif seperti platform digital dan pengembangan game (*Visual Novel*).
-3. **Mendorong Pertumbuhan Kolaboratif** — Menciptakan lingkungan yang inklusif bagi para *programmer* dan antusias teknologi untuk saling berbagi ilmu.
-4. **Menjunjung Tinggi Standar Kualitas** — Memanfaatkan *tech stack* modern untuk menghasilkan produk digital yang bersih, efisien, dan fungsional.
+1. **Bikin Alat yang Kepake Banget**
+   Kita fokus bikin bot, web, atau sistem yang beneran ngebantu keseharian produktivitas komunitas.
+2. **Karya Seru & Interaktif**
+   Nggak cuma ngoding web biasa, kita juga ngerjain proyek kreatif kayak bikin platform hiburan dan nge-game (*Visual Novel*).
+3. **Belajar Bareng-Bareng**
+   Nyiptain suasana yang ramah buat siapa aja yang mau *sharing* ilmu, dari yang baru belajar sampai yang udah jago.
+4. **Kualitas Tetap Nomor Satu**
+   Walaupun santai, kita tetap pakai teknologi (*tech stack*) paling *up-to-date* supaya hasilnya rapi, kenceng, dan enak dipakai.
 
 ---
 
-## 📊 Ecosystem Status
+## 📊 Status Ekosistem
 
 <p align="center">
-  <img src="https://img.shields.io/badge/The_Nameless_King-BETA-00FF88?style=for-the-badge" alt="Status The Nameless King" />
+  <img src="https://img.shields.io/badge/Eclipse_The_Last_Prayer-IN_DEVELOPMENT-00FF88?style=for-the-badge" alt="Status Eclipse: The Last Prayer" />
   <img src="https://img.shields.io/badge/Core_Anime_Modular-BETA-3B82F6?style=for-the-badge" alt="Status Core Anime" />
   <img src="https://img.shields.io/badge/Boston_Point_System-BETA-F59E0B?style=for-the-badge" alt="Status Boston Point" />
   <img src="https://img.shields.io/badge/Makima_Finance-BETA-CC1B1B?style=for-the-badge" alt="Status Makima Finance" />
   <img src="https://img.shields.io/badge/Core_Dev_Bot-BETA-9333EA?style=for-the-badge" alt="Status Core Dev Bot" />
+  <img src="https://img.shields.io/badge/Ahadya_Travel-LIVE-10B981?style=for-the-badge" alt="Status Ahadya Travel Trip" />
 </p>
 
 ---
 
-## 🚀 Proyek Ekosistem Kami
+## 🚀 Proyek Ekosistem Kita
 
-Kami mengelola berbagai pilar utama proyek yang saling terintegrasi untuk mendukung komunitas dan karya kami:
+Ini nih beberapa proyek utama yang lagi kita garap dan jalanin bareng-bareng buat ngeramein komunitas:
 
 ### 1. 🤖 Core Dev Infrastructure (Discord Bot)
 
-Sistem otomasi dan manajemen komunitas yang dirancang khusus untuk mendukung interaksi para developer.
+Bot Discord andalan kita buat ngurusin server supaya makin hidup dan gampang diatur.
 
-- **Fitur Utama:** Advanced Leveling System (Canvacord v6), Developer Utilities (NPM, GitHub, MDN), dan Custom Profile Database.
-- **Tech Stack:** Node.js, Discord.js v14, MongoDB.
+✨ **Fitur Andalan:** Sistem level yang keren (pakai Canvacord v6), *tools* buat developer (bisa nyari info NPM/GitHub/MDN langsung dari Discord), dan database profil kostum buat tiap member.
+💻 **Tech Stack:** Node.js, Discord.js v14, MongoDB.
 
-### 2. 👑 The Nameless King (Visual Novel Project)
+### 2. 👑 Eclipse: The Last Prayer (Visual Novel Project)
 
-Proyek pengembangan game *Visual Novel* bergenre *dark fantasy* bertajuk **"The Nameless King"**, mengisahkan intrik takhta, pengembara, dan rahasia yang terkubur.
+Lagi iseng serius bikin game *Visual Novel* bergenre *psychological horror* nih. Judulnya **"Eclipse: The Last Prayer"**, ceritanya soal misteri gelap dan teror di sebuah kota bernama Ashcroft.
 
-- **Fitur Utama:** Branching Narrative (Pilihan Cerita), Karakter Dinamis, dan Ilustrasi Suasana Kerajaan.
-- **Tech Stack:** Ren'Py, Python, Custom Asset Management.
+✨ **Fitur Andalan:** Jalan cerita yang bisa berubah tergantung pilihan kamu, karakter yang dinamis, dan visual atmosfer yang mencekam.
+💻 **Tech Stack:** Ren'Py, Python, Custom Asset Management.
 
 <div align="center">
 
-> # 👑 THE NAMELESS KING — OFFICIAL PORTAL 👑
-> *"Di atas tanah yang terlupakan, sebuah takhta menanti rajanya yang sejati..."*
+> # 👑 ECLIPSE: THE LAST PRAYER (OFFICIAL PORTAL) 👑
+> *"Di kota Ashcroft, keheningan menyimpan teror yang mendalam..."*
 >
-> Halo, para pengembara! Kunjungi portal web resmi kami untuk menjelajahi dunia **"The Nameless King"** secara lengkap.
+> Halo, detektif! Mampir yuk ke portal web resmi kita buat ngulik lebih dalem soal dunia **"Eclipse: The Last Prayer"**.
 >
-> **Apa yang bisa kamu temukan di website?**
-> 🔮 Sinopsis lengkap perjalanan Alexios dan relik Besi Bintang
-> ✨ Ensiklopedia dunia dan pengenalan karakter utama
-> 🎶 Pemutar audio BGM eksklusif dengan visualizer dinamis
-> 📥 Informasi akses Open Beta dan log pembaruan terkini
+> **Ada apa aja sih di websitenya?**
+> 🔮 Sinopsis lengkap soal misteri kota Ashcroft
+> ✨ Ensiklopedia buat kenalan sama karakter karakternya
+> 🎶 Pemutar lagu (BGM) eksklusif yang asik buat didengerin
+> 📥 Info soal Open Beta dan *update* terbaru gamenya
 >
-> ⚔️ **Ambil pedangmu, dan kunjungi website resminya sekarang:**
+> ⚔️ **Mulai investigasimu sekarang:**
 > <br><br>
-> <a href="https://the-nameless-king.vercel.app/">
->   <img src="https://img.shields.io/badge/Buka_Website_The_Nameless_King-8B0000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Web The Nameless King" />
+> <a href="https://eclipse-the-last-prayer.vercel.app/">
+>   <img src="https://img.shields.io/badge/Buka_Website_Eclipse_The_Last_Prayer-8B0000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Web Eclipse: The Last Prayer" />
 > </a>
 
 </div>
 
 ### 3. ⛩️ Core Anime Modular (Web Portal)
 
-Platform eksplorasi kultur pop Jepang yang cepat, responsif, dan modular bagi pecinta anime dan manga.
+Buat kamu yang wibu atau sekadar suka jejepangan, kita punya portal web yang kenceng dan enak dilihat buat nyari info anime dan manga.
 
-- **Fitur Utama:** Katalog Anime/Manga, Jadwal Rilis (Airing), Galeri Waifu, dan Anime Quotes API.
-- **Tech Stack:** Next.js 15, TypeScript, Tailwind CSS, Jikan API.
+✨ **Fitur Andalan:** Katalog anime dan manga terlengkap, jadwal rilis yang lagi tayang, galeri karakter (penting nih!), sampai nyari *quotes* ikonik dari anime.
+💻 **Tech Stack:** Next.js 15, TypeScript, Tailwind CSS, Jikan API.
 
 ### 4. 🏢 Boston Point System (Community Management)
 
-Platform manajemen internal terpadu untuk pengelolaan operasional komunitas secara efisien.
+Ini platform internal kita buat ngurusin segala macem operasional komunitas biar rapi dan gampang dipantau.
 
-- **Fitur Utama:** Member Management, Event Organizer, Gallery Moments, dan Admin/Developer Metrics Dashboard.
-- **Tech Stack:** Next.js 15, TypeScript, MongoDB, NextAuth.js.
+✨ **Fitur Andalan:** Manajemen member, ngurusin *event*, galeri momen kebersamaan, dan *dashboard* pantauan buat admin atau developer.
+💻 **Tech Stack:** Next.js 15, TypeScript, MongoDB, NextAuth.js.
 
 ### 5. 💳 Makima Finance (Personal Finance App)
 
-Aplikasi pengatur keuangan pribadi bergaya *Dark Crimson* dengan AI Advisor & Vision Scanner.
+Aplikasi pencatat keuangan pribadi dengan tema *Dark Crimson*. Biar ngatur duit berasa lebih elegan dan ditolongin sama AI.
 
-- **Fitur Utama:** Makima AI Advisor (Llama 3.3 70B), OCR Receipt Scanner, pencatat hutang-piutang, split bill, dan ekspor kalender .ics lokal.
-- **Tech Stack:** Flutter, Dart, Hive NoSQL.
+✨ **Fitur Andalan:** Ada Makima AI Advisor (Llama 3.3 70B) yang siap ngasih saran, bisa *scan* struk belanja pakai kamera (OCR), nyatet utang piutang, patungan (*split bill*), dan *export* jadwal ke kalender lokal kamu.
+💻 **Tech Stack:** Flutter, Dart, Hive NoSQL.
+
+### 6. ✈️ Ahadya Travel Trip (Client Project)
+
+Salah satu proyek buatan kita buat klien. Ini platform *tour and travel* kekinian yang udah punya sistem *booking* otomatis dan Customer Service berbasis AI.
+
+✨ **Fitur Andalan:** Katalog paket jalan jalan yang kece, *dashboard* admin yang lengkap buat pantau pesanan dan statistik, dan bot CS yang pinter (pakai Groq API).
+💻 **Tech Stack:** Next.js 15, TypeScript, Tailwind CSS, PostgreSQL, Prisma.
 
 ---
 
-## 👀 Preview
+## 👀 Intip Dulu Yuk (Preview)
 
-### 👑 The Nameless King
+### 👑 Eclipse: The Last Prayer
 
 <p align="center">
-  <a href="https://the-nameless-king.vercel.app/">
-    <img src="assets/preview-the-nameless-king.webp" alt="The Nameless King Preview" />
+  <a href="https://eclipse-the-last-prayer.vercel.app/">
+    <img src="assets/preview-eclipse-the-last-prayer.webp" alt="Eclipse: The Last Prayer Preview" />
   </a>
 </p>
 
@@ -147,7 +159,7 @@ Aplikasi pengatur keuangan pribadi bergaya *Dark Crimson* dengan AI Advisor & Vi
 
 ## 🛠️ Global Tech Stack
 
-Infrastruktur dan karya kami dibangun dengan teknologi modern yang tangguh dan fleksibel:
+Di balik layar, ini deretan teknologi modern yang kita pakai biar proyek proyeknya pada kenceng dan awet:
 
 <p align="left">
   <img src="https://img.shields.io/badge/Next.js_15-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="NextJS" />
@@ -163,14 +175,14 @@ Infrastruktur dan karya kami dibangun dengan teknologi modern yang tangguh dan f
 
 ---
 
-## 👨💻 Founder & Architect
+## 👨💻 Siapa di Balik Ini Semua?
 
-Seluruh ekosistem ini diinisiasi dan dikembangkan oleh:
+Semua keseruan dan ekosistem ini awalnya dibangun sama:
 
-- **kodel-dev** - *Full-stack Developer & Architect*
+👤 **kodel-dev** (Full-stack Developer & Architect)
 
 <div align="center">
-  <i>"Menulis kode bukan hanya tentang mesin yang memahaminya, tapi tentang membangun karya yang bermanfaat untuk ekosistem."</i>
+  <i>"Ngoding itu bukan cuma perkara bikin mesin ngerti perintah kita, tapi gimana caranya kita bikin sesuatu yang beneran ada gunanya buat orang lain."</i>
   <br><br>
   <a href="https://github.com/kodel-dev">
     <img src="https://img.shields.io/badge/GitHub_Founder-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile" />
