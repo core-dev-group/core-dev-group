@@ -36,12 +36,12 @@ Halo! **Core Dev Group** itu pada dasarnya adalah wadah buat kita para *programm
 ## 📊 Status Ekosistem
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Eclipse_The_Last_Prayer-IN_DEVELOPMENT-00FF88?style=for-the-badge" alt="Status Eclipse: The Last Prayer" />
-  <img src="https://img.shields.io/badge/Core_Anime_Modular-BETA-3B82F6?style=for-the-badge" alt="Status Core Anime" />
-  <img src="https://img.shields.io/badge/Boston_Point_System-BETA-F59E0B?style=for-the-badge" alt="Status Boston Point" />
-  <img src="https://img.shields.io/badge/Makima_Finance-BETA-CC1B1B?style=for-the-badge" alt="Status Makima Finance" />
-  <img src="https://img.shields.io/badge/Core_Dev_Bot-BETA-9333EA?style=for-the-badge" alt="Status Core Dev Bot" />
-  <img src="https://img.shields.io/badge/Ahadya_Travel-LIVE-10B981?style=for-the-badge" alt="Status Ahadya Travel Trip" />
+  <a href="https://eclipse-the-last-prayer.vercel.app/"><img src="https://img.shields.io/badge/Eclipse_The_Last_Prayer-IN_DEV-E11D48?style=for-the-badge" alt="Status Eclipse: The Last Prayer" /></a>
+  <a href="https://core-anime.my.id/"><img src="https://img.shields.io/badge/Core_Anime_Modular-LIVE-00BCD4?style=for-the-badge" alt="Status Core Anime" /></a>
+  <a href="https://boston-point.vercel.app/"><img src="https://img.shields.io/badge/Boston_Point_System-ENTERPRISE-FFB300?style=for-the-badge" alt="Status Boston Point" /></a>
+  <a href="https://github.com/kodel-dev/makima-finance-app"><img src="https://img.shields.io/badge/Makima_Finance-MOBILE-CC1B1B?style=for-the-badge" alt="Status Makima Finance" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Core_Dev_Bot-ENGINE-8B5CF6?style=for-the-badge" alt="Status Core Dev Bot" /></a>
+  <a href="https://ahadyatraveltrip.my.id"><img src="https://img.shields.io/badge/Ahadya_Travel-CLIENT-10B981?style=for-the-badge" alt="Status Ahadya Travel Trip" /></a>
 </p>
 
 ---
