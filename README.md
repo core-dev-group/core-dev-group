@@ -157,7 +157,7 @@ Semua keseruan dan ekosistem ini dibangun bersama oleh:
 <div align="center">
   <i>"Live as crazily as possible, because you only have one chance"</i>
   <br><br>
-  <a href="https://github.com/">
+  <a href="https://github.com/dYn-webp">
     <img src="https://img.shields.io/badge/GitHub_Co--Founder-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Co-Founder" />
   </a>
   <a href="https://www.instagram.com/dyn.ardians/">
