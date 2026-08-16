@@ -115,48 +115,6 @@ Salah satu proyek buatan kita buat klien. Ini platform *tour and travel* kekinia
 
 ---
 
-## 👀 Intip Dulu Yuk (Preview)
-
-### 👑 Eclipse: The Last Prayer
-
-<p align="center">
-  <a href="https://eclipse-the-last-prayer.vercel.app/">
-    <img src="assets/preview-eclipse-the-last-prayer.webp" alt="Eclipse: The Last Prayer Preview" />
-  </a>
-</p>
-
-### ⛩️ Core Anime Modular
-
-<p align="center">
-  <a href="https://core-anime.vercel.app/">
-    <img src="assets/preview-core-anime.webp" alt="Core Anime Preview" />
-  </a>
-</p>
-
-### 🏢 Boston Point System
-
-<p align="center">
-  <a href="https://boston-point.vercel.app/">
-    <img src="assets/preview-boston-point.webp" alt="Boston Point Preview" />
-  </a>
-</p>
-
-### 💳 Makima Finance
-
-<p align="center">
-  <a href="https://github.com/kodel-dev/makima-finance-app">
-    <img src="https://placehold.co/900x500/0B0F1A/CC1B1B?text=Makima+Finance+Preview" alt="Makima Finance Preview" />
-  </a>
-</p>
-
-### 🤖 Core Dev Bot
-
-<p align="center">
-  <img src="https://placehold.co/900x500/0B0F1A/00FF88?text=Bot+Command+Preview" alt="Bot Command Preview" />
-</p>
-
----
-
 ## 🛠️ Global Tech Stack
 
 Di balik layar, ini deretan teknologi modern yang kita pakai biar proyek proyeknya pada kenceng dan awet:
@@ -175,20 +133,35 @@ Di balik layar, ini deretan teknologi modern yang kita pakai biar proyek proyekn
 
 ---
 
-## 👨💻 Siapa di Balik Ini Semua?
+## 👨‍💻 Siapa di Balik Ini Semua?
 
-Semua keseruan dan ekosistem ini awalnya dibangun sama:
+Semua keseruan dan ekosistem ini dibangun bersama oleh:
 
-👤 **kodel-dev** (Full-stack Developer & Architect)
+👤 **kodel-dev** (Founder & Full-stack Architect)
 
 <div align="center">
-  <i>"Ngoding itu bukan cuma perkara bikin mesin ngerti perintah kita, tapi gimana caranya kita bikin sesuatu yang beneran ada gunanya buat orang lain."</i>
+  <i>"Humanity's greatest weakness is the fear of failure. Yet, mistakes are the initial lines of code for success"</i>
   <br><br>
   <a href="https://github.com/kodel-dev">
     <img src="https://img.shields.io/badge/GitHub_Founder-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile" />
   </a>
   <a href="https://www.instagram.com/dvam.in?igsh=OGQ5ZDc2ODk2ZA==">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+</div>
+
+<br>
+
+👤 **dYn.webp** (Co-Founder)
+
+<div align="center">
+  <i>"Live as crazily as possible, because you only have one chance"</i>
+  <br><br>
+  <a href="https://github.com/">
+    <img src="https://img.shields.io/badge/GitHub_Co--Founder-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Co-Founder" />
+  </a>
+  <a href="https://www.instagram.com/dyn.ardians/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Co-Founder" />
   </a>
 </div>
 
