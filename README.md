@@ -12,7 +12,7 @@
 
 ## 🌟 Tentang Kami
 
-Halo! **Core Dev Group** itu pada dasarnya adalah wadah buat kita para *programmer*, *developer*, atau siapa pun yang suka teknologi buat saling kolaborasi. Kita suka bikin macem-macem hal, mulai dari bot buat ngurusin komunitas, website yang kekinian, sampai bikin game *Visual Novel* yang seru. Intinya, kita percaya kalau kode yang bagus itu selalu lahir dari komunitas yang asik dan saling *support*.
+Halo! **Core Dev Group** itu pada dasarnya adalah wadah buat kita para *programmer*, *developer*, atau siapa pun yang suka teknologi buat saling kolaborasi. Kita suka bikin macem-macem hal, mulai dari bot buat ngurusin komunitas, website yang kekinian, sistem enterprise POS, sampai bikin game *Visual Novel* yang seru. Intinya, kita percaya kalau kode yang bagus itu selalu lahir dari komunitas yang asik dan saling *support*.
 
 ---
 
@@ -23,7 +23,7 @@ Halo! **Core Dev Group** itu pada dasarnya adalah wadah buat kita para *programm
 
 ### 🚀 Misi
 1. **Bikin Alat yang Kepake Banget**
-   Kita fokus bikin bot, web, atau sistem yang beneran ngebantu keseharian produktivitas komunitas.
+   Kita fokus bikin bot, web, atau sistem yang beneran ngebantu keseharian produktivitas komunitas dan bisnis.
 2. **Karya Seru & Interaktif**
    Nggak cuma ngoding web biasa, kita juga ngerjain proyek kreatif kayak bikin platform hiburan dan nge-game (*Visual Novel*).
 3. **Belajar Bareng-Bareng**
@@ -36,8 +36,9 @@ Halo! **Core Dev Group** itu pada dasarnya adalah wadah buat kita para *programm
 ## 📊 Status Ekosistem
 
 <p align="center">
+  <a href="https://core-auto-pos.vercel.app/"><img src="https://img.shields.io/badge/CoreAuto_POS-ENTERPRISE-0066FF?style=for-the-badge" alt="Status CoreAuto POS" /></a>
   <a href="https://eclipse-the-last-prayer.vercel.app/"><img src="https://img.shields.io/badge/Eclipse_The_Last_Prayer-IN_DEV-E11D48?style=for-the-badge" alt="Status Eclipse: The Last Prayer" /></a>
-  <a href="https://core-anime.my.id/"><img src="https://img.shields.io/badge/Core_Anime_Modular-LIVE-00BCD4?style=for-the-badge" alt="Status Core Anime" /></a>
+  <a href="https://core-anime.my.id/"><img src="https://img.shields.io/badge/Core_Anime-LIVE-00BCD4?style=for-the-badge" alt="Status Core Anime" /></a>
   <a href="https://boston-point.vercel.app/"><img src="https://img.shields.io/badge/Boston_Point_System-ENTERPRISE-FFB300?style=for-the-badge" alt="Status Boston Point" /></a>
   <a href="https://github.com/kodel-dev/makima-finance-app"><img src="https://img.shields.io/badge/Makima_Finance-MOBILE-CC1B1B?style=for-the-badge" alt="Status Makima Finance" /></a>
   <a href="#"><img src="https://img.shields.io/badge/Core_Dev_Bot-ENGINE-8B5CF6?style=for-the-badge" alt="Status Core Dev Bot" /></a>
@@ -50,14 +51,25 @@ Halo! **Core Dev Group** itu pada dasarnya adalah wadah buat kita para *programm
 
 Ini nih beberapa proyek utama yang lagi kita garap dan jalanin bareng-bareng buat ngeramein komunitas:
 
-### 1. 🤖 Core Dev Infrastructure (Discord Bot)
+### 1. 🚘 CoreAuto POS & Workshop System (Enterprise POS)
+
+Sistem Manajemen Operasional Bengkel & Point of Sale (POS) Multi-Cabang Enterprise yang dirancang khusus untuk memenuhi kebutuhan bisnis perbengkelan modern secara terintegrasi dan real-time.
+
+✨ **Fitur Andalan:** Terminal kasir POS cepat & responsive, arsitektur multi-cabang dengan isolasi stok, alur permintaan barang 2-tahap (Kasir ➔ Kepala Cabang ➔ Gudang Pusat), manajemen mutasi stok, perhitungan otomatis komisi mekanik, serta laporan keuangan laba-rugi (P&L).
+💻 **Tech Stack:** Next.js 16, TypeScript, Tailwind CSS v4, PostgreSQL (Supabase Cloud), Prisma ORM, NextAuth.js.
+
+---
+
+### 2. 🤖 Core Dev Infrastructure (Discord Bot)
 
 Bot Discord andalan kita buat ngurusin server supaya makin hidup dan gampang diatur.
 
 ✨ **Fitur Andalan:** Sistem level yang keren (pakai Canvacord v6), *tools* buat developer (bisa nyari info NPM/GitHub/MDN langsung dari Discord), dan database profil kostum buat tiap member.
 💻 **Tech Stack:** Node.js, Discord.js v14, MongoDB.
 
-### 2. 👑 Eclipse: The Last Prayer (Visual Novel Project)
+---
+
+### 3. 👑 Eclipse: The Last Prayer (Visual Novel Project)
 
 Lagi iseng serius bikin game *Visual Novel* bergenre *psychological horror* nih. Judulnya **"Eclipse: The Last Prayer"**, ceritanya soal misteri gelap dan teror di sebuah kota bernama Ashcroft.
 
@@ -85,28 +97,36 @@ Lagi iseng serius bikin game *Visual Novel* bergenre *psychological horror* nih.
 
 </div>
 
-### 3. ⛩️ Core Anime Modular (Web Portal)
+---
+
+### 4. ⛩️ Core Anime (Web Portal)
 
 Buat kamu yang wibu atau sekadar suka jejepangan, kita punya portal web yang kenceng dan enak dilihat buat nyari info anime dan manga.
 
 ✨ **Fitur Andalan:** Katalog anime dan manga terlengkap, jadwal rilis yang lagi tayang, galeri karakter (penting nih!), sampai nyari *quotes* ikonik dari anime.
 💻 **Tech Stack:** Next.js 15, TypeScript, Tailwind CSS, Jikan API.
 
-### 4. 🏢 Boston Point System (Community Management)
+---
+
+### 5. 🏢 Boston Point System (Community Management)
 
 Ini platform internal kita buat ngurusin segala macem operasional komunitas biar rapi dan gampang dipantau.
 
 ✨ **Fitur Andalan:** Manajemen member, ngurusin *event*, galeri momen kebersamaan, dan *dashboard* pantauan buat admin atau developer.
 💻 **Tech Stack:** Next.js 15, TypeScript, MongoDB, NextAuth.js.
 
-### 5. 💳 Makima Finance (Personal Finance App)
+---
+
+### 6. 💳 Makima Finance (Personal Finance App)
 
 Aplikasi pencatat keuangan pribadi dengan tema *Dark Crimson*. Biar ngatur duit berasa lebih elegan dan ditolongin sama AI.
 
 ✨ **Fitur Andalan:** Ada Makima AI Advisor (Llama 3.3 70B) yang siap ngasih saran, bisa *scan* struk belanja pakai kamera (OCR), nyatet utang piutang, patungan (*split bill*), dan *export* jadwal ke kalender lokal kamu.
 💻 **Tech Stack:** Flutter, Dart, Hive NoSQL.
 
-### 6. ✈️ Ahadya Travel Trip (Client Project)
+---
+
+### 7. ✈️ Ahadya Travel Trip (Client Project)
 
 Salah satu proyek buatan kita buat klien. Ini platform *tour and travel* kekinian yang udah punya sistem *booking* otomatis dan Customer Service berbasis AI.
 
@@ -120,15 +140,18 @@ Salah satu proyek buatan kita buat klien. Ini platform *tour and travel* kekinia
 Di balik layar, ini deretan teknologi modern yang kita pakai biar proyek proyeknya pada kenceng dan awet:
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Next.js_15-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="NextJS" />
+  <img src="https://img.shields.io/badge/Next.js_16-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="NextJS" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma" />
+  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase" />
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
   <img src="https://img.shields.io/badge/Discord.js-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="DiscordJS" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS" />
 </p>
 
 ---
